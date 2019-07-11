@@ -27,23 +27,23 @@ I am curious if champion play rates are affected by the release of new skins. If
 
 ### Features:
 * __Skin name__
- - Data type: str
- - Example: 'Arcade Sona'
+  * Data type: str
+  * Example: 'Arcade Sona'
 * __Champion name__
- - Data type: str
- - Example: 'Sona'
+  * Data type: str
+  * Example: 'Sona'
 * __Skin line__
- - Data type: str
- - Example: 'Arcade: Heroes'
+  * Data type: str
+  * Example: 'Arcade: Heroes'
 * __Skin price__
- - Data type: int
- - Example: 1350
+  * Data type: int
+  * Example: 1350
 * __Release date__
- - Data type: str
- - Example: '30-Aug-2012'
+  * Data type: str
+  * Example: '30-Aug-2012'
 * __Play rate 1 day prior__
- - Data type: float
- - Example: 0.064
+  * Data type: float
+  * Example: 0.064
 * __Play rate 2 days prior__
 * __Play rate 3 days prior__
 * __Play rate 4 days prior__
